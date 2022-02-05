@@ -1,0 +1,92 @@
+﻿@model Tuple<X.PagedList.IPagedList<Product>, int>
+@{
+    ViewData["Title"] = "Index";
+    int page = (Model.Item2 / 9) + 1;
+}
+
+<br />
+<div class="row">
+    <div class="col-lg-6 text-info text-left" style="font-size:30px">
+        Product List
+    </div>
+    <div class="col-lg-6 text-right">
+        <a asp-action="Create" class="btn btn-info"><i class="fas fa-plus"></i> &nbsp; Add New Product</a>
+    </div>
+</div>
+<hr />
+<form asp-action="Index" method="post" class="row">
+    <div class="input-group mb-3 col-5">
+        <span class="input-group-text" id="basic-addon1">Product Name</span>
+        <input type="text" name="name" class="form-control" aria-describedby="basic-addon1">
+    </div>
+    <div class="col-1">
+        <input type="submit" value="Search" class="btn btn-outline-info" />
+    </div>
+</form>
+<table id="myTable" class="table table-striped table-hover table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Image
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Available
+            </th>
+            <th>
+                Product Type
+            </th>
+            <th>
+                Tag Name
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Item1) {
+            <tr>
+                <td><img src="~/images/@item.Image" style="width:150px" class="img-thumbnail img-rounded" /></td>
+                <td> @item.Name</td>
+                <td> @item.Price</td>
+                <td> @item.Available</td>
+                <td> @item.ProductTypes.Name</td>
+                <td> @item.TagNames.Name</td>
+                <td style="width:150px">
+                    <div class="btn-group">
+                        <a asp-action="Edit" class="btn btn-primary" asp-route-id="@item.Id"><i class="far fa-edit"></i></a>
+                        <a asp-action="Details" class="btn btn-success" asp-route-id="@item.Id"><i class="fas fa-list-ul"></i></a>
+                        <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id"><i class="fas fa-trash"></i></a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    @for (int i = 1; i <= page; i++) {
+        <a asp-action="Index" asp-route-page="@i" class="btn btn-outline-dark">@i</a>
+    }
+</div>
+
+@*<script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <link href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css" rel="stylesheet" type="text/css" />
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+        <script>
+            $(document).ready(function () {
+                $('#myTable').DataTable({
+                    bLengthChange: true,
+                    lengthMenu: [[5, 10, -1], [5, 10, "All"]],
+                    bFilter: true,
+                    bSort: true,
+                    bPaginate: true
+                });
+            });
+        </script>
+    }*@

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\ahmad\Desktop\Online</_PublishTargetUrl>
+    <History>True|2021-09-01T13:55:47.8488488Z;True|2021-07-29T19:50:11.8482377+03:00;True|2021-07-29T19:38:45.4483090+03:00;True|2021-07-29T18:05:50.6174069+03:00;True|2021-07-29T17:40:28.2513090+03:00;True|2021-07-27T16:12:20.5644366+03:00;True|2021-07-26T14:49:08.6546435+03:00;True|2021-07-25T18:48:14.6838468+03:00;True|2021-07-25T18:38:11.8454058+03:00;True|2021-07-24T12:48:19.4387092+03:00;</History>
+  </PropertyGroup>
+</Project>

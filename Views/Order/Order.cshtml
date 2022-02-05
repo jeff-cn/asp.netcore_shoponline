@@ -1,0 +1,56 @@
+﻿@model IEnumerable<OrderUserProduct>
+
+@{
+    ViewData["Title"] = "Order";
+}
+
+<h1>Order</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Order Date
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.DateTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.Name)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

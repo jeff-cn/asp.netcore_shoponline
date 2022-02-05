@@ -1,0 +1,100 @@
+﻿@model Product;
+@{
+    ViewData["Title"] = "More info";
+}
+
+@using ShopOnline.Utility
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    List<Product> products = HttpContextAccessor.HttpContext.Session.Get<List<Product>>("products");
+    Product product = null;
+    if (products != null) {
+        product = products.FirstOrDefault(p => p.Id == Model.Id);
+    }
+}
+
+<br />
+<h2 class="text-info">Product Detail</h2>
+<hr />
+<form class="row">
+    <div class="col-lg-8">
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Name"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Name" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Description"></label>
+            </div>
+            <div class="col-lg-8">
+                <textarea cols="70" rows="5" asp-for="Description" readonly class="form-control"></textarea>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Time"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Time" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Price"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Price" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Color"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Color" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="ProductTypeId"></label>
+            </div>
+            <div class="col-lg-8">
+                <select asp-for="ProductTypeId" asp-items="ViewBag.ProductTypeId" readonly class="form-control"></select>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="TagNameId"></label>
+            </div>
+            <div class="col-lg-8">
+                <select asp-for="TagNameId" asp-items="ViewBag.TagNameId" readonly class="form-control"></select>
+            </div>
+        </div>
+        <div class="form-group">
+            @if (product != null) {
+                <button asp-action="RemoveFromCart" asp-route-id="@Model.Id" class="btn btn-danger">Remove from cart</button>
+            } else {
+                <button asp-action="AddToCart" asp-route-id="@Model.Id" class="btn btn-info">Add to cart</button>
+            }
+            <a asp-action="Index" class="btn btn-success">Back To List</a>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <img src="~/images/@Model.Image" style="width:300px" />
+        @if (Model.Available) {
+            <img src="~/images/in_stok.PNG" style="width: 250px; height: 50px" />
+        } else {
+            <img src="~/images/out-of-stok.PNG" style="width: 250px; height: 50px" />
+        }
+    </div>
+</form>
+
+@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

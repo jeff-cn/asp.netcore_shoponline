@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<div class="row">
+    <div class="col-lg-6">
+        <h2 class="text-info">Assign User Role</h2>
+    </div>
+    <div class="col-lg-6 text-right">
+        <a asp-action="Assign" class="btn btn-info"><i class="fas fa-plus"></i> &nbsp;Role To User</a>
+    </div>
+</div>
+<hr />
+<div>
+    <table class="table table-striped table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    User Email
+                </th>
+                <th>
+                    Role
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.UserRoles)
+            {
+                <tr>
+                    <td> @item.UserEmail</td>
+                    <td> @item.RoleName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

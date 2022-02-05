@@ -1,0 +1,86 @@
+﻿@model Product;
+@{
+    ViewData["Title"] = "Delete";
+}
+<br />
+<h2 class="text-info">Delete Product</h2>
+<hr />
+<form asp-action="Delete" method="post" class="row">
+    <div class="col-lg-8">
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Name"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Name" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Description"></label>
+            </div>
+            <div class="col-lg-8">
+                <textarea cols="70" rows="5" asp-for="Description" readonly class="form-control"></textarea>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Time"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Time" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Price"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Price" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Color"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Color" readonly class="form-control" />
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="ProductTypeId"></label>
+            </div>
+            <div class="col-lg-8">
+                <select asp-for="ProductTypeId" asp-items="ViewBag.ProductTypeId" readonly class="form-control"></select>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="TagNameId"></label>
+            </div>
+            <div class="col-lg-8">
+                <select asp-for="TagNameId" asp-items="ViewBag.TagNameId" readonly class="form-control"></select>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class=" col-lg-4">
+                <label asp-for="Available"></label>
+            </div>
+            <div class="col-lg-8">
+                <input asp-for="Available" class="checkbox" readonly type="checkbox" />
+            </div>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-outline-secondary">Back To List</a>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <img src="~/images/@Model.Image" style="width:100%" />
+    </div>
+</form>
+
+@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

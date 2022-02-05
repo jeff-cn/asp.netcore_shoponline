@@ -1,0 +1,561 @@
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\appsettings.Development.json
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\appsettings.json
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.exe
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.deps.json
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.json
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.dev.json
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Humanizer.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.AssemblyReference.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfoInputs.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfo.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CoreCompileInputs.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.Manifest.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.xml
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\scopedcss\bundle\ShopOnline.styles.css
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.input.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.output.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorCoreGenerate.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CopyComplete
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.genruntimeconfig.cache
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Assign.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\UserRole.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Delete.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Edit.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Create.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Create.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Edit.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Delete.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\MoreInfo.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Order.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\libman.json
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\IndexWhere.cshtml.g.cs
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\X.PagedList.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\MailKit.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\MimeKit.dll
+D:\Software\Website\ASP.NET\ShopOnline\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Software\Website\ASP.NET\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\appsettings.Development.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\libman.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\appsettings.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.exe
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.deps.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.dev.json
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Humanizer.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\MailKit.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\MimeKit.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\X.PagedList.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.AssemblyReference.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfoInputs.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfo.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CoreCompileInputs.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.Manifest.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.xml
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\scopedcss\bundle\ShopOnline.styles.css
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.input.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.output.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorCoreGenerate.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\IndexWhere.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\MoreInfo.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Order.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Create.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Delete.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Edit.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Assign.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\UserRole.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Create.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Delete.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Edit.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cache
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cs
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CopyComplete
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.net Core MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.genruntimeconfig.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\appsettings.Development.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\libman.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\appsettings.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.exe
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.deps.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.runtimeconfig.dev.json
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Humanizer.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\MailKit.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\MimeKit.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\X.PagedList.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.AssemblyReference.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfoInputs.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.AssemblyInfo.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CoreCompileInputs.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorAssemblyInfo.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.Manifest.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\staticwebassets\ShopOnline.StaticWebAssets.xml
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\scopedcss\bundle\ShopOnline.styles.css
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.input.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.TagHelpers.output.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorCoreGenerate.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Cart.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\IndexWhere.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\MoreInfo.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Checkout.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Order\Order.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Create.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Delete.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Edit.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\ProductType\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Assign.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Role\UserRole.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Create.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Delete.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Edit.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\TagName\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cache
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.RazorTargetAssemblyInfo.cs
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.Views.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.csproj.CopyComplete
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ref\ShopOnline.dll
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.pdb
+D:\Software\Website\ASP.netCore\MVC\ShopOnline\obj\Debug\net5.0\ShopOnline.genruntimeconfig.cache

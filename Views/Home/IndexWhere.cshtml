@@ -1,0 +1,35 @@
+﻿@model Tuple<X.PagedList.IPagedList<Product>, int>
+@{
+    ViewData["Title"] = "IndexWhere";
+    int page = (Model.Item2 / 9) + 1;
+}
+
+<br />
+<div class="row">
+    @foreach (var product in Model.Item1) {
+        <div class="col-lg-4 col-md-6">
+            <div class="card" style="width:20rem ; margin:15px">
+                <img src="~/images/@product.Image" class="card-img-top image" alt="@product.Name">
+                <div class="card-body">
+                    <h5 class="card-title"><i>@product.Name</i></h5>
+                    <p class="card-text" style="color:red"><b>Price:</b> @product.Price $</p>
+                    <div class="text-right">
+                        <a asp-action="MoreInfo" asp-route-id="@product.Id" class="btn btn-outline-success">More info</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+<div>
+    @if (page > 1) {
+        @for (int i = 1; i <= page; i++) {
+            <a asp-action="IndexWhere" asp-route-page="@i" asp-route-ProductType="@ViewBag.Type" class="btn btn-outline-dark">@i</a>
+        }
+    }
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
